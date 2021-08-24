@@ -1,21 +1,5 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Minijuego Piedra, Papel o Tijera
 **Decisiones - Simule el juego de piedra, papel o tijera**
-
-Modifica el programa que se encuentra en la carpeta `src` que se llama
-`exercise.py` y que contiene el siguiente código:
-
-```python
-def main():
-  # Escribe tu código abajo de esta línea
-  pass
-
-if __name__ == '__main__':
-    main()
-```
-
-La línea `#Escribe tu código abajo de esta línea` es un comentario,
-el programa la va a ignorar al ejecutarse.
 
 Escriba un programa que simule el juego <a href="https://es.wikipedia.org/wiki/Piedra,_papel_o_tijera">Piedra, papel, tijera</a> para dos jugadores (Ana y Juan).
 
@@ -59,10 +43,3 @@ Tirada de Ana: p
 Tirada de Juan: r
 Tirada incorrecta
 ```
-**Nota:** No te preocupes por esta parte del código
-`if __name__ == '__main__':` por el momento. No la vamos a necesitar para
-este programa, pero es una buena práctica incluirla y quedará más
-claro para que sirve en los siguientes ejercicios.
-
-Una vez que termines tu actividad y la hayas probado con `pytest` o `pytest --tb=short`,
-súbela a tu repositorio en GitHub, con el proceso de `commit + push`.
