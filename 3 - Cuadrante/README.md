@@ -1,23 +1,13 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Cuadrante
 **Decisiones - Número de cuadrante donde se encuentra un número (grados) entre 0 y 360**
 
-Modifica el programa que se encuentra en la carpeta `src` que se llama
-`exercise.py` y que contiene el siguiente código:
+Escribe un programa que lea un número entero que se encuentre entre 0 y 360 que representa los grados del plano cartesiano y que muestre como resultado el número de cuadrante en donde se encuentra: 
 
-```python
-def main():
-  # Escribe tu código abajo de esta línea
-  pass
+- el cuadrante 1 esta entre 0 y 90 grados. 
+- el cuadrante 2 esta entre 90 y 180 grados. 
+- el cuadrante 3 esta entre 180 y 270 grados.
+- el cuadrante 4 esta entre 270 y 360 grados.
 
-if __name__ == '__main__':
-    main()
-```
-
-La línea `#Escribe tu código abajo de esta línea` es un comentario,
-el programa la va a ignorar al ejecutarse.
-
-Escribe un programa que lea un número entero que se encuentre entre 0 y 360 que representa los grados del plano cartesiano y que muestre como resultado el número de cuadrante en donde se encuentra. 
 En caso de que el grado caiga en un eje, tu programa debe mostrar la palabra `"eje"`.
 En caso de que el grado sea menor a cero o mayor a 360,  tu programa debe mostrar la palabra `"excede"`.
 
@@ -42,10 +32,3 @@ cuadrante 1
 Introduce los grados: 215
 cuadrante 3
 ```
-**Nota:** No te preocupes por esta parte del código
-`if __name__ == '__main__':` por el momento. No la vamos a necesitar para
-este programa, pero es una buena práctica incluirla y quedará más
-claro para que sirve en los siguientes ejercicios.
-
-Una vez que termines tu actividad y la hayas probado con `pytest` o `pytest --tb=short`,
-subela a tu repositorio en GitHub, con el proceso de commit + push.
