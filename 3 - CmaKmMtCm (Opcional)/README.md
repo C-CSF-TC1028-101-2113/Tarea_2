@@ -49,11 +49,3 @@ Introduce los cm: 1200500
 5 m
 ```
 El resultado se debe mostrar como se indica con cada valor en un renglón por separado, indicando las unidades correspondientes (km, m y cm en minúscula) y en el orden indicado. Si no hay valor para alguna de las tres unidades, no debe mostrar dicho renglón.   
-
-**Nota:** No te preocupes por esta parte del código
-`if __name__ == '__main__':` por el momento. No la vamos a necesitar para
-este programa, pero es una buena práctica incluirla y quedará más
-claro para que sirve en los siguientes ejercicios.
-
-Una vez que termines tu actividad y la hayas probado con `pytest` o `pytest --tb=short`,
-subela a tu repositorio en GitHub, con el proceso de commit + push.
