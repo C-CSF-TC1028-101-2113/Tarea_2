@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # De Centímetros a Kilómetros, Metros y Centímetros
 **Decisiones - Conversión de centímetros a kilómetros, metros y centímetros**
 
